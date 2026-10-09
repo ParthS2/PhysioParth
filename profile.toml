@@ -1,0 +1,15 @@
+# Facts about your practice. The bot uses these in every answer and never
+# invents anything missing, so fill in the [ADD ...] items before relying on it.
+
+name = "PhysioParth"
+site = "https://physioparth.com"
+clinician = "Parth [ADD CREDENTIALS, e.g. Registered Physiotherapist]"
+location = "[ADD CITY / AREA, or 'online' if virtual]"
+audience = "Lifters and strength athletes (powerlifting, weightlifting, bodybuilding, CrossFit) dealing with training injuries"
+services = [
+    "[ADD SERVICE, e.g. Lifting injury assessment]",
+    "[ADD SERVICE, e.g. Return-to-lifting rehab programs]",
+    "[ADD SERVICE, e.g. Virtual physiotherapy]",
+]
+tone = "Plain-spoken, evidence-informed, lifter to lifter; no hype"
+regulators = "College of Physiotherapists of Ontario (CPO) advertising standard; AHPRA advertising guidelines if targeting Australia"
